@@ -1,4 +1,4 @@
-- Plano do projeto (Project Plan)
-- Plano de iteração (Iteration Plan)
-- Lista de itens de trabalho (Work items list)
-- Lista de riscos (Risk List)
+- Plano do projeto (Project Plan) OK
+- Plano de iteração (Iteration Plan) OK
+- Lista de itens de trabalho (Work items list) OK
+- Lista de riscos (Risk List) OK
