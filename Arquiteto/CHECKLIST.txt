@@ -1,1 +1,0 @@
-- Documento de arquitetura (Architecture Notebook) OK
