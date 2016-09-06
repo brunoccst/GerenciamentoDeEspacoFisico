@@ -1,7 +1,7 @@
 - Visão de negócio
 - Modelo de negócio
-- Visão (Vision)
-- Documento de Requisitos (System-Wide Requirements)
+- Visão (Vision)  OK
+- Documento de Requisitos (System-Wide Requirements) OK
 - Glossário (Glossary)
 - Modelo de casos de uso (Use Case Model)
-- Casos de uso (Use case)
+- Casos de uso (Use case) OK
