@@ -1,0 +1,61 @@
+Trabalho II: descrição
+Desenvolvimento de Sistemas
+
+Trabalho II
+
+
+Escopo:
+
+O processo padrão a ser utilizado para o projeto será o OpenUP. Se a equipe desejar utilizar outro processo de desenvolvimento de software deverá indicá-lo na avaliação do Trabalho II.
+
+O escopo do Trabalho II envolve a fase de elaboração (Elaboration) do OpenUP, ou similar no processo escolhido pela equipe.
+
+Desta forma, as atividades previstas e os artefatos a serem entregues devem seguir a descrição da fase do processo definido.
+
+A arquitetura solicitada para o sistema é cliente-servidor distribuído em camadas:
+
+a camada de dados será baseada em banco de dados relacional
+a camada de lógica de negócio será baseada em objetos
+a camada de apresentação poderá ser implementada em duas alternativas:
+cliente Web, utilizando-se um navegador; ou
+cliente dedicado, utilizando-se uma aplicação cliente.
+O sistema deve ser executado em rede. O teste de sistema deve ser realizado em duas máquinas físicas distintas:
+
+uma máquina para a interface com o usuário - camada de apresentação (cliente)
+uma máquina para o sistema - camadas de lógica do negócio e de dados (servidor)
+Tailoring de processo:
+
+Na execução do processo OpenUp, considere os seguintes ajustes:
+
+Os artefatos do projeto devem ser organizados e entregues conforme a seguinte estrutura (pastas):
+gerente de projeto
+analista
+arquiteto
+desenvolvedor
+testador
+O gerente deve entregar a planilha de evidências preenchida juntamente com os demais artefatos do projeto.
+O nome dos casos de uso deve possuir o formato UC<número>-<nome>. Exemplo: UC01-Fazer login.
+Para a descrição detalhada dos casos de uso desta iteração, utilizar o template: "Template de descrição detalhada de caso de uso", disponível no item 'Materiais de apoio'.
+A tarefa "Design the Solution" da atividade "Develop the Architecture > Develop Solution Increment", e o artefato "Design" serão de responsabilidade do Arquiteto do projeto.
+O artefato "Design" deverá possuir pelo menos os diagramas UML:
+Diagrama de pacotes: para a estrutura do projeto (design structure)
+Diagrama de classes: para a visão dos participantes (view of participants) de cada requisito.
+Diagrama de sequência ou comunicação: para o cenário básico (basic scenario) de cada requisito.
+O artefato "Architecture Notebook" deverá conter os modelos conceitual e lógico de dados do sistema.
+O nome dos casos de teste deve possuir o formato TC<número>-<nome>, que mapeie o caso de uso correspondente. Exemplos: TC01a-Fazer login com sucesso, TC01b-Fazer login com falha - usuário inválido.
+O nome dos 'scripts' de teste deve possuir o formato TS<número>-<nome>, que mapeie o caso de teste correspondente. Exemplos: TS01a-Fazer login com sucesso, TS01b-Fazer login com falha - usuário inválido.
+Os nomes dos 'logs' de teste devem possuir o formato TL<número>-<nome>, que mapeie o caso de teste correspondente. Exemplos: TL01a-Fazer login com sucesso, TL01b-Fazer login com falha - usuário inválido.
+Avaliação:
+
+Nota do Trabalho = 10% apresentação + 90% documentação, sendo:
+Apresentação: 50% presença pontual + 50% apresentação.
+Documentação: 75% artefatos do papel individual + 25% média dos artefatos da equipe.
+Obs.:
+Problemas identificados no Trabalho I e não corrigidos no Trabalho II, terão maior desconto na avaliação deste trabalho.
+A avaliação do 'Executável - Build' será na apresentação do Trabalho II.
+Entrega:
+
+Todos os produtos de trabalhos (arquivos) devem ser compactados em um único arquivo que deverá ser submetido via Moodle, através da tarefa de Entrega do Trabalho II.
+O nome do arquivo deve ser constituído pelo primeiro nome dos componentes do grupo, seguido do dígito "2".
+Exemplo: suponha que um grupo é constituído pelos alunos João da Silva, Maria de Souza e Paulo Moura, o arquivo deveria ser nomeado como: 'JoaoMariaPaulo2.zip'
+A entrega deve ser realizada por cada membro da equipe, para controle de entrega do trabalho; mas será considerada a versão enviada pelo gerente do projeto.
