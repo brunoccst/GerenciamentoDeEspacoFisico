@@ -1,3 +1,0 @@
-Documento de arquitetura
-
-Projeto (desenho) do sistema - Design
