@@ -1,3 +1,7 @@
 - CASOS DE TESTE
+	* UC10 – Consultar sala de uma turma
+	* UC11 – Consultar turmas sem alocação física
+	* UC13 - Consultar dados
+	* UC16 – Relatório de alterações
 - SCRIPTS DE TESTE
 - LOG DE TESTES
